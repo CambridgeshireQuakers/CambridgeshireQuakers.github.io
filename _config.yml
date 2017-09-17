@@ -36,7 +36,7 @@ url: "http://cambridgeshire-quakers.org.uk" # the base hostname & protocol for y
 
 baseurl: "" # the subpath of your site, e.g. /blog.
 
-noindex: true
+noindex: false
 
 calendarId: cambridgeshire-quakers.org.uk_pfnk20251chvstmqmqkvub1i20@group.calendar.google.com
 # ------------------------------------------------------------------------------
