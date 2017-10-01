@@ -3,6 +3,7 @@
   <dl>
     <dt>Address</dt>
     <dd>
+      {% if meeting.noPost %}<b class="small">(Not for correspondence)</b>{% endif %}
       <address itemprop="address">{{ meeting.address }}</address>
     </dd>
     {% if meeting.email %}

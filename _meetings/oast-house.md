@@ -8,6 +8,7 @@ address: |
   Pembroke College
   Trumpington Street
   Cambridge
+noPost: true
 email: clerk@coh.cambridgeshire-quakers.org.uk
 ---
 
