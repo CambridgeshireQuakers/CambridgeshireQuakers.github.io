@@ -14,4 +14,10 @@
   <script>window.jQuery || document.write('\x3cscript src="{{ "/ext-lib/jquery/jquery-2.2.3.min.js" | prepend: site.baseurl }}"\x3e\x3c/script\x3e');</script>
   <script src="{{ "/ext-lib/bootstrap-sass/assets/javascripts/bootstrap.min.js" | prepend: site.baseurl }}"></script>
   <script src="{{ "/js/jam.js" | prepend: site.baseurl }}"></script>
+
+  {% if site.googleAnalyticsTrackingId  %}
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googleAnalyticsTrackingId }}"></script>
+    <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', '{{ site.googleAnalyticsTrackingId }}');</script>
+  {% endif %}
 </head>
