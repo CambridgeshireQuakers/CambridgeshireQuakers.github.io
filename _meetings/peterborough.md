@@ -8,6 +8,7 @@ address: |
   Peterborough
   PE3 6AB
 email: contact.peterboroughquakers@gmail.com
+canonicalUrl: 'https://www.peterboroughquakers.org.uk'
 eventVenue: true
 regularMeetings:
   - Sundays 1030-1130
