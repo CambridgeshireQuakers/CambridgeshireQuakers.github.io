@@ -17,6 +17,18 @@ Meeting for Worship is held every Sunday from 10.30 to 11.30 a.m, and on Wednesd
 
 Children are welcome every Sunday; a Children’s Meeting is organised for the second Sunday of each month and all children are welcome. If you have children who would like to come with you, on other Sundays it would helpful (but not necessary) to let us know beforehand.
 
+<div class="xs-expand">
+  <div class="pad-y-sm">
+    <a class="block pad-lg bg-success" href="https://www.peterboroughquakers.org.uk/">
+      <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
+      Peterborough Quakers have our own website:
+      <strong>
+        click here to visit us
+      </strong>
+    </a>
+  </div>
+</div>
+
 ## Location
 
 {% include image.html class='thumbnail-left' src='/img-site/peterborough/peterborough-front-small.jpg' %}
