@@ -126,7 +126,7 @@ Hire of digital projector | £5.50
 </div>
 
 For a series of more than three lettings booked, and
-paid for in advance, there is a 20% reduction.
+paid for in advance, there is a 10% reduction.
 For irregular bookings (i.e. not weekly or monthly)
 spaced over a year, a deposit of 25% is required.
 
