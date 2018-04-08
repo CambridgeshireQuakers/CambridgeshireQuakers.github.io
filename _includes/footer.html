@@ -2,18 +2,33 @@
 
   <div class="container pad-y-lg">
 
-    <h5>{{ site.title }}</h5>
     <div class="row">
       <div class="col-md-8 col-xs-12">
+        <h5>{{ site.title }}</h5>
         <p>{{ site.description }}</p>
       </div>
       <div class="col-md-4 col-xs-12">
-        <ul class="list-unstyled">
-          {% unless meeting %}
+        {% if meeting %}
+          <h5 class="text-center">
+            <a class="text-muted" href="{{ meeting.url | prepend: site.baseurl }}">{% include accessor o=meeting k='shortTitle' %} Quaker Meeting</a>
+          </h5>
+          <ul class="list-unstyled">
+            {% for d in site.pages %}
+              {% if d.meeting == meeting.meeting %}
+                <li>
+                  <a class="btn btn-link btn-md btn-block" href="{{ d.url | prepend: site.baseurl }}">{% include accessor o=d k='shortTitle' %}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+            <li><a class="btn btn-link btn-md btn-block" href="/">Cambridgeshire Area Meeting</a></li>
+          </ul>
+          {% else %}
+          <ul class="list-unstyled">
+            <li>&#xa0;</li>
             <li><a class="btn btn-link btn-md btn-block" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          {% endunless %}
-          <li><a class="btn btn-link btn-md btn-block" href="/am/area-meeting.html">Area Meeting Documents</a></li>
-        </ul>
+            <li><a class="btn btn-link btn-md btn-block" href="/am/area-meeting.html">Area Meeting Documents</a></li>
+          </ul>
+          {% endif %}
       </div>
     </div>
 
