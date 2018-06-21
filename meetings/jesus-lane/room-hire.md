@@ -89,7 +89,7 @@ in advance.
 
 ## Rates
 
-These rates are effective from 1 July 2017 to 30 June 2018. They are subject to periodic review.
+These rates are effective from 1 July 2018 to 30 June 2019. They are subject to periodic review.
 
 ##### Room Rates
 
@@ -97,13 +97,13 @@ These rates are effective from 1 July 2017 to 30 June 2018. They are subject to 
 
 | Room | Evening & weekends <br/> 3 hour session | Evening & weekends <br/> Each additional hour | Daytime <br/> Hourly rate |
 |--------------------------|-------:|-------:|-------:|
-| Meeting Room             | £55.10 | £10.20 | £18.50 |
-| Meeting Room with Annexe | £65.70 | £12.60 | £22.95 |
-| Ann Docwra Room          | £39.00 | £ 7.10 | £14.70 |
-| Aldren Wright Room       | £30.50 | £ 5.50 | £11.50 |
-| Annexe                   | £28.00 | £ 5.50 | £10.00 |
-| Caroline Stephen Room    | £25.00 | £ 5.00 | £ 9.50 |
-| Library                  | £14.75 | £ 2.75 | £ 5.15 |
+| Meeting Room             | £56.50 | £10.50 | £19.00 |
+| Meeting Room with Annexe | £67.35 | £13.00 | £24.00 |
+| Ann Docwra Room          | £40.00 | £ 7.50 | £15.10 |
+| Aldren Wright Room       | £31.25 | £ 5.70 | £12.00 |
+| Annexe                   | £28.70 | £ 6.00 | £10.25 |
+| Caroline Stephen Room    | £26.50 | £ 5.50 | £10.00 |
+| Library                  | £15.20 | £ 2.80 | £ 5.50 |
 
 </div>
 
@@ -113,15 +113,16 @@ These rates are effective from 1 July 2017 to 30 June 2018. They are subject to 
 
 Use of Kitchen |
 --|
-Tea or coffee once                                      | £5.60
-Tea or coffee more than once                            | £10.90
-Serving a prepared meal and tea or coffee               | £10.90
-Cooking and serving a meal and tea or coffee throughout | £22.15
-Tea/coffee provided                                     | £1.50 per serving
+Tea or coffee once                                      | £5.75
+Tea or coffee more than once                            | £11.25
+Serving a prepared meal and tea or coffee               | £12.00
+Cooking and serving a meal and tea or coffee throughout | £22.70
+Tea/coffee provided                                     | £2.50 per serving
 
 Other |
 --|
-Hire of digital projector | £5.50
+Hire of digital projector                   | £5.75
+Hire of digital projector plus sound system | £11.00
 
 </div>
 
@@ -129,4 +130,3 @@ For a series of more than three lettings booked, and
 paid for in advance, there is a 10% reduction.
 For irregular bookings (i.e. not weekly or monthly)
 spaced over a year, a deposit of 25% is required.
-
