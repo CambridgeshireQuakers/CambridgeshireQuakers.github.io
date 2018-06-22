@@ -73,13 +73,13 @@ forty.  The kitchen should be booked in advance.
 
 ### Lecture aids, etc.
 
-The following equipment is available at the Meeting House. Please reserve when you book your room.
+The following equipment is available at the Meeting House. Please reserve these in advance, when you book your room.
 
 - Digital projector and speakers
 - Overhead projector
-- Projection screens
+- Wall-hung projection screens in Ann Docrwa Room and Meeting Room
 - Flipchart/whiteboard stand
-- Piano
+- Piano (Meeting Room and Annexe bookings only)
 
 ### Wi-fi
 

@@ -13,7 +13,7 @@ images:
 
 ---
 
-Suitable for lectures and classes, including those involving physical activity. It has a sealed wood floor, stacking chairs and curtains. There is an induction loop available for use by those with hearing impairments. The room connects to the Meeting House kitchen.
+Suitable for lectures and classes, including those involving physical activity. It has a sealed wood floor, stacking chairs and curtains, as well as a wall-hung projection screen. There is an induction loop available for use by those with hearing impairments. The room connects to the Meeting House kitchen.
 
 ### The Kitchen
 
