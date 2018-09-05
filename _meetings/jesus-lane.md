@@ -42,7 +42,7 @@ Several city and country **bus** routes pass near the Meeting House. Drummer Str
 Park Street **car park** is within two minutes’ walk. Approach via Jesus Lane only (not Bridge Street).
 Charges are available on the Cambridge City Council website.
 
-**Park & Ride** bus service, from either Madingley Road or Newmarket Road, stops in Bridge Street, within five minutes’ walk. Parking is £1 and the return fare is £2.50.
+**Park & Ride** bus service from Madingley Road car park stops at Bridge Street, within five minutes’ walk.
 
 There is a designated parking bay for **Blue Badge holders** opposite 6—11 Jesus Lane; approach via Jesus Lane only.
 
