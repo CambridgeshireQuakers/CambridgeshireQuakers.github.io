@@ -20,7 +20,14 @@ purposes can be considered. However,
 we do not allow use for ticketed events
 or for parties or receptions. No smoking
 or consumption of alcoholic drinks is
-permitted. Copies of the Standard Terms
+permitted.
+
+A printable copy of our brochure is available for download
+<a target="_blank" href="/asset-site/jesus-lane/hirers.pdf">here</a>
+and our overall lettings policy is available for download
+<a target="_blank" href="/asset-site/jesus-lane/letting-policy.docx">here</a>.
+
+Copies of the Standard Terms
 and Conditions for lettings are available on
 request.
 
