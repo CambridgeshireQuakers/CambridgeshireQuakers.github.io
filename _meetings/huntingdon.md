@@ -16,7 +16,7 @@ eventVenue: true
 
 Meeting for Worship is held every Sunday and visitors are always welcome.
 
-**Children’s Meeting** is usually organised on the first Sunday of each month, but does occasionally change. Contact the clerk in advance if possible, if you plan to come with children, so that arrangements can be made.
+**Children’s Meeting** is usually organised on the second Sunday of each month, but does occasionally change. Contact the clerk in advance if possible, if you plan to come with children, so that arrangements can be made.
 
 {% include image.html class='thumbnail-left' src='/img-site/huntingdon/huntingdon-house.jpg' %}
 
