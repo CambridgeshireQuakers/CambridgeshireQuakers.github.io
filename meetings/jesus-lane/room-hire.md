@@ -105,10 +105,10 @@ These rates are effective from 1 September 2019 to 30 June 2020. They are subjec
 | Room | Evening & weekends <br/> 3 hours min hire | Daytime (Weekdays)<br/> 2 hours min hire | Each additional hour |
 |--------------------------|-------:|-------:|-----------:|
 | Meeting Room             | £57.00 | £38.00 | +£19.00/hr |
-| Meeting Room with Annexe | £73.50 | £49.00 | +£24.00/hr |
+| Meeting Room with Annexe | £73.50 | £49.00 | +£24.50/hr |
 | Ann Docwra Room          | £46.50 | £31.00 | +£15.50/hr |
-| Aldren Wright Room       | £29.60 | £24.50 | +£12.25/hr |
-| Annexe                   | £36.75 | £21.00 | +£10.50/hr |
+| Aldren Wright Room       | £36.75 | £24.50 | +£12.25/hr |
+| Annexe                   | £31.50 | £21.00 | +£10.50/hr |
 | Caroline Stephen Room    | £30.00 | £20.00 | +£10.00/hr |
 | Library                  | £17.25 | £11.50 | +£ 5.75/hr |
 
