@@ -29,6 +29,8 @@ We also have a **Meeting for Worship on Wednesdays** from 1315-1345, preceded mo
 
 We also have monthly **Evening Meetings for Worship** at the Meeting House, in which we explore different topics.
 
+{% include temp-advert-jl-warden.html %}
+
 ### Getting to the Meeting House
 
 {% include image.html src='/img-site/jesus-lane/outside.jpg' class='thumbnail-left' caption="The front door of Jesus Lane Meeting House" %}
