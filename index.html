@@ -41,7 +41,7 @@ layout: default
 
       <div class="xs-expand">
         {% for meeting in site.meetings %}
-          <div class="pad-y-sm">
+        <div class="pad-y-sm">
           <a class="block pad-lg bg-success" href="{{ meeting.url | prepend: site.baseurl }}">
             <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
             <strong>
@@ -63,9 +63,27 @@ layout: default
     </div>
 
     <div class="col-xs-12 col-sm-4 pad-lg">
+      {% if site.calendarId %}
       <div class="xs-expand">
         <h2 class="h3 hidden-xs">Events</h2>
         {% include google-calendar-sidebar.html calendarId=site.calendarId %}
+      </div>
+      {% endif%}
+      <div class="xs-expand">
+        {% for c in site.collections %}
+        {% if c.showOnSidebar %}
+        {% for d in c.docs %}
+        <div class="pad-y-sm">
+          <a class="block pad-lg bg-info" href="{{ d.url | prepend: site.baseurl }}">
+            <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
+            <strong>
+              {% include accessor o=d k='shortTitle' %}
+            </strong>
+          </a>
+        </div>
+        {% endfor %}
+        {% endif %}
+        {% endfor %}
       </div>
     </div>
   </div>

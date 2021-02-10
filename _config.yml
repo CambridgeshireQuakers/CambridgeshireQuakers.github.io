@@ -71,6 +71,7 @@ collections:
     name: Cambridgeshire Quakers
     output: true
     includeHomePage: Home
+    showOnSidebar: true
   meetings:
     name: Local Meetings
     output: true
