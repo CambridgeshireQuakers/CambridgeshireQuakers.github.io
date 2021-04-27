@@ -8,9 +8,9 @@ address: |
   Godmanchester
   Cambridgeshire
   PE29 2AQ
-meeting-time: 11:00 am - 12:00am
+meeting-time: 10:30 am - 11:30am
 regularMeetings:
-  - Sundays 1100-1200
+  - Sundays 1030-1130
 eventVenue: true
 ---
 
@@ -26,7 +26,7 @@ Huntingdon Meeting is situated on the main road through Godmanchester, opposite 
 
 ### Meeting for Worship
 
-Meeting for Worship is held each Sunday at 11 am and lasts for about an hour. In the main meeting room the chairs are set out in a circle with a table in the middle. There are usually flowers, a Bible and several copies of Quaker Faith and Practice on the table.
+Meeting for Worship is held each Sunday at 10.30 am and lasts for about an hour. In the main meeting room the chairs are set out in a circle with a table in the middle. There are usually flowers, a Bible and several copies of Quaker Faith and Practice on the table.
 
 Meeting for Worship starts as soon as the first person enters the room and sits down. As other Friends enter they join in the silence, taking a seat wherever they feel comfortable. The silence is occasionally broken by spoken ministry, when one of those present feels they have a message which they are being asked to share. On some Sundays the whole hour is passed in silent worship.
 
