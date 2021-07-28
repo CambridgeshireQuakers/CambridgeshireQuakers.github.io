@@ -1,5 +1,6 @@
 _site
 .sass-cache
+.jekyll-cache/
 .jekyll-metadata
 ext-lib/bootstrap-sass/*
 !ext-lib/bootstrap-sass/assets
