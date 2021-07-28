@@ -48,6 +48,12 @@ the facilities provided.
 
 </div>
 
+<div class="alert alert-warning">
+
+Please also note that during the pandemic, actual capacity will be less than the normal room capacity given below, which does not account for distancing; hirers must follow our  <a target="_blank" href="/asset-site/jesus-lane/hirers-covid.pdf">Safety Guidance</a>, which is subject to change.
+
+</div>
+
 {% include roomlist.md meeting=page.meeting %}
 
 ## Facilities
@@ -96,7 +102,7 @@ in advance.
 
 ## Rates
 
-These rates are effective from 1 September 2019 to 30 June 2020. They are subject to periodic review.
+These rates are effective from 1 September 2021 to 30 June 2022. They are subject to periodic review.
 
 ##### Room Rates
 
@@ -119,20 +125,26 @@ These rates are effective from 1 September 2019 to 30 June 2020. They are subjec
 
 Use of Kitchen |
 --|
-Tea or coffee made once                                 | £5.75
-Tea or coffee made more than once                       | £11.50
-Serving a prepared meal and tea or coffee               | £12.00
-Cooking and serving a meal and tea or coffee throughout | £22.70
-Tea/coffee provided                                     | £1.00 per serving
+Tea or coffee per serving                           | £5.75
+Serving a prepared meal, including tea or coffee    | £12.00
+Cooking and serving a meal, including tea or coffee | £21.00
+Tea/coffee provided                                 | £1.00 per serving
 
-Other |
+Equipment |
 --|
-Hire of digital projector | £5.75
-Hire of sound system      | £5.75
+Use of digital projector            | £5.75
+Use of sound system with microphone | £5.75
+Use of teleconferencing equipment   | £5.75
+Use of flip chart/white board       | no charge
+
+NB: Please reserve equipment or kitchen in advance.
 
 </div>
 
-For a series of more than three lettings booked, and
-paid for in advance, there is a 10% reduction.
-For irregular bookings (i.e. not weekly or monthly)
-spaced over a year, a deposit of 25% is required.
+Solo use of any room is charged at £20 per day. For a
+series of more than three hires booked there is a 10%
+reduction. For new hirers, one-off or irregular bookings
+(i.e. not weekly or monthly) a deposit of 25% paid in
+advance is required to secure the booking. Cancellations
+other than those related to COVID will be charged if less
+than 4 weeks' notice is given.
