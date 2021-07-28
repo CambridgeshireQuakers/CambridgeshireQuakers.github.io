@@ -132,9 +132,9 @@ Tea/coffee provided                                 | £1.00 per serving
 
 Equipment |
 --|
-Use of digital projector            | £5.75
-Use of sound system with microphone | £5.75
-Use of teleconferencing equipment   | £5.75
+Use of digital projector            | £ 5.75
+Use of sound system with microphone | £ 5.75
+Use of teleconferencing equipment   | £10.00
 Use of flip chart/white board       | no charge
 
 NB: Please reserve equipment or kitchen in advance.
