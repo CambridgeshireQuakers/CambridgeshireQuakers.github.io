@@ -109,7 +109,6 @@ These rates are effective from 1 September 2019 to 30 June 2020. They are subjec
 | Ann Docwra Room          | £46.50 | £31.00 | +£15.50/hr |
 | Aldren Wright Room       | £36.75 | £24.50 | +£12.25/hr |
 | Annexe                   | £31.50 | £21.00 | +£10.50/hr |
-| Caroline Stephen Room    | £30.00 | £20.00 | +£10.00/hr |
 | Library                  | £17.25 | £11.50 | +£ 5.75/hr |
 
 </div>
