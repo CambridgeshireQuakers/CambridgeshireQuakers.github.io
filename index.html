@@ -47,7 +47,8 @@ layout: default
             <strong>
               {{ meeting.prefix }}
               {{ meeting.title }}
-            </strong> Local Quaker Meeting
+            </strong>
+            {{ meeting.status | default: "Local Quaker Meeting" }}
           </a>
         </div>
         {% endfor %}

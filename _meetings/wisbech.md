@@ -2,6 +2,7 @@
 layout: meeting
 meeting: wisbech
 shortTitle: Wisbech
+status: Worshipping Group
 address: |
   Friends Meeting House
   21 North Brink
@@ -13,7 +14,9 @@ regularMeetings:
 ---
 {% include image.html class='thumbnail-left' src='/img-site/wisbech/wisbech-front-small.jpg' %}
 
-Wisbech Meeting is a small meeting of long standing. Quakers have met for worship at the same site on North Brink since 1711, and in the current Meeting House since 1854. Much of our history is connected with the Peckovers, a Quaker banking family who owned nearby Peckover House, now a National Trust property.
+Quakers in and around Wisbech have met for worship at the same site on North Brink since 1711, and in the current Meeting House since 1854.
+Much of our history is connected with the Peckovers, a Quaker banking family who owned nearby Peckover House, now a National Trust property.
+Since 2021, our worshipping group has been organised together with Friends in Peterborough as Peterborough and Wisbech Local Meeting.
 
 {% include image.html class='thumbnail-right' src='/img-site/wisbech/wisbech-inside-small.jpg' %}
 
