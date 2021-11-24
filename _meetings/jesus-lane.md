@@ -13,6 +13,7 @@ email: jlwardens@gmail.com
 regularMeetings:
   - Sundays 1030-1130
   - Wednesdays 1315-1345
+  - Once a month on third Tuesdays 1315-1345
 eventVenue: true
 ---
 
@@ -20,21 +21,18 @@ Jesus Lane is a busy meeting, which often has 50-60 Friends gathered on Sundays,
 
 ### During the pandemic
 
-We have been worshipping online weekly at our usual time throughout the pandemic.
+We have been worshipping online weekly at our usual time throughout the pandemic, running together with in-person worship when that has been possible for us to do responsibly.
 
 We welcome visitors to our Meetings for Worship on Sundays at 1030-1130 and Wednesdays at 1315-1145; these are are currently 'blended': most attending online with some at the Meeting House which also has a video link to the online space.
 
 - To register to attend a Meeting in person, please contact our Warden in advance, preferably by email to [jlwardens@gmail.com](mailto:jlwardens@gmail.com).
 - To join us online, please contact [clerk@cambridgeshire-quakers.org.uk](mailto:clerk@cambridgeshire-quakers.org.uk)
 
-Following Meeting there is the opportunity for those meeting online to chat in small groups of 3-5 Friends in 'breakout rooms'.
+Following Meeting there is the opportunity for those meeting online to chat in small groups of 3-5 Friends in 'breakout rooms'. Friends at the Meeting house can chat outside in our courtyard.
 
-We hold in-person worship primarily because we know some Friends have difficulty accessing online meetings;
-please only come if you can do so safely and your place has been confirmed, and please follow the safety directions you will be given.
+Please only come if you can do so safely and your place has been confirmed, and please follow the safety directions you will be given.
 
-Our meetings for business are currently being held online at 1215 on first Sundays only and for practical reasons in-person meetings are not being held on the first Sunday in the month.
-
-Our monthly Tuesday evening discussion meetings are not taking place currently, but Friends from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled "Ideas in Isolation". Please get in touch if you would like to join.
+Friends from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled "Ideas in Isolation". Please get in touch if you would like to join.
 
 #### If you need additional support
 
@@ -45,10 +43,6 @@ We are also here for you to reach out directly to us.
 The current overseers are:
 Liz Barrow, Tamsin Beevor, Bea Doubleday, Amy Ellis, Marisa Johnson, Jeremy Symes and Robin Tod.
 Please email us on [jl-overseers@cambridgeshire-quakers.org.uk](mailto:jl-overseers@cambridgeshire-quakers.org.uk)
-
-Overseers would like you to know that there will be a welcoming overseer on Zoom from 10am each Sunday
-so if you would like to arrive early for a chat please do so.
-We are giving this idea a trial for one month in February 2020.
 
 ### During normal times
 
