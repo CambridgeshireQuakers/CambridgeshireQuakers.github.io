@@ -3,17 +3,19 @@ layout: meeting
 meeting: ely
 shortTitle: Ely
 address: |
-  The Old Dispensary
-  St Mary’s Street
+  Aedwen Room
+  Ely Museum
+  The Old Gaol
+  Market Street
   Ely
-  CB7 4ER
-email: clerk@ely.cambridgeshire-quakers.org.uk
+  CB7 4LS
+email: sue.brock-hollinshead@cambridgeshire-quakers.org.uk
 ---
 
-The Ely Meeting is a relatively new community. It was restarted in 2007, and met initially in the Museum, and after two other venues, we now meet in the Old Dispensary on St Mary’s Street from 1030-1130am on Sundays.
+The Ely Meeting is a relatively new community: we have been meeting together since 2007. As of January 2022, we have returned to meeting in the Ely Museum (the Aedwen Room; postcode CB7 4LS) where we are offering we are offering ‘Blended’ (online/in-person) Meetings from 1030-1130am on Sundays.
 
-Our Meetings for Worship, attended by twelve on a typical Sunday, are more often than not silent, which seems to suit us. We have an opportunity at the end of that silence to share thoughts and concerns which Friends thought not necessarily appropriate for ministry but which give us valuable food for thought in the days that follow.
+The venue has good ventilation and space for us to sit socially distanced; we ask that you bring and wear a face covering unless exempt. If you would like to join this meeting online, please [contact the clerk](mailto:sue.brock-hollinshead@cambridgeshire-quakers.org.uk) to request joining details.
 
-The last Sunday of the month after Meeting for Worship we either have Meetings for Worship for Business or time spent exploring our faith together.
+Our Meetings for Worship, attended by about ten on a typical Sunday, are more often than not silent, which seems to suit us. We usually have an opportunity at the end of that silence to share thoughts and concerns which Friends thought not necessarily appropriate for ministry but which give us valuable food for thought in the days that follow.
 
-As yet we do not have a Children’s Meeting although we now have three little ones who occasionally join us at the end of Meeting.
+We do not have a Children’s Meeting at this time, although we have a few little ones who occasionally join us.
