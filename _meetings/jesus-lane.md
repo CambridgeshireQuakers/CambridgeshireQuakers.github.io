@@ -28,7 +28,9 @@ Tea and coffee follows Meeting for Worship, as well as other regular activities 
 
 We also have a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230.
 
-We also have monthly **Evening Meetings for Worship** at the Meeting House, in which we explore different topics.
+We also have monthly **Evening Meetings for Worship**, in which we explore different topics, and Friends
+from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled
+**Ideas in Isolation**. Please get in touch if you would like to join.
 
 ### Getting to the Meeting House
 
