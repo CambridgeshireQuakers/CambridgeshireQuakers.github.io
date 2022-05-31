@@ -20,7 +20,7 @@ eventVenue: true
 Jesus Lane is a busy meeting, which often has 50-60 Friends gathered on Sundays,
 meeting from 1030-1130am. We have [family-friendly arrangements](/meetings/jesus-lane/childrens-meeting.html) for Sunday worship.
 
-Tea and coffee follows Meeting for Worship, as well as other regular activities which you are welcome to stay for
+Tea and coffee follows Meeting for Worship, as well as other regular activities which you are welcome to stay for:
 
 - **Local Meeting for Business** is held on the first Sunday of each months (except January and August)
 - **Singing Together** takes place at 1200 on the third Sunday of each month
