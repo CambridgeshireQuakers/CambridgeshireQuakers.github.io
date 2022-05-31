@@ -42,8 +42,7 @@ There is a large **cycle park** immediately outside the Meeting House.
 
 Several city and country **bus** routes pass near the Meeting House. Drummer Street bus station is within ten minutes’ walk.
 
-Park Street **car park** is within two minutes’ walk. Approach via Jesus Lane only (not Bridge Street).
-Charges are available on the Cambridge City Council website.
+The nearest **car parks** are Castle Hill and the Grafton Centre, as Park Street **car park** is no longer in operation.
 
 **Park & Ride** bus service from Madingley Road car park stops at Bridge Street, within five minutes’ walk.
 
