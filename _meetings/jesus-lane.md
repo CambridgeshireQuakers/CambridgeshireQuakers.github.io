@@ -32,6 +32,8 @@ We also have monthly **Evening Meetings for Worship**, in which we explore diffe
 from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled
 **Ideas in Isolation**. Please get in touch if you would like to join.
 
+Please do not come to the Meeting House if you are experiencing COVID-like symptoms.
+
 ### Getting to the Meeting House
 
 {% include image.html src='/img-site/jesus-lane/outside.jpg' class='thumbnail-left' caption="The front door of Jesus Lane Meeting House" %}
