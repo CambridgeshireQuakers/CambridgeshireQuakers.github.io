@@ -102,7 +102,7 @@ in advance.
 
 ## Rates
 
-These rates are effective from 1 September 2021 to 30 June 2022. They are subject to periodic review.
+These rates are effective from 1 July 2022 to 31 December 2022. They are subject to periodic review.
 
 ##### Room Rates
 
@@ -110,12 +110,12 @@ These rates are effective from 1 September 2021 to 30 June 2022. They are subjec
 
 | Room | Evening & weekends <br/> 3 hours min hire | Daytime (Weekdays)<br/> 2 hours min hire | Each additional hour |
 |--------------------------|-------:|-------:|-----------:|
-| Meeting Room             | £57.00 | £38.00 | +£19.00/hr |
-| Meeting Room with Annexe | £73.50 | £49.00 | +£24.50/hr |
-| Ann Docwra Room          | £46.50 | £31.00 | +£15.50/hr |
-| Aldren Wright Room       | £36.75 | £24.50 | +£12.25/hr |
-| Annexe                   | £31.50 | £21.00 | +£10.50/hr |
-| Library                  | £17.25 | £11.50 | +£ 5.75/hr |
+| Meeting Room             | £42.00 | £63.00 | +£21.00/hr |
+| Meeting Room with Annexe | £54.00 | £81.00 | +£27.00/hr |
+| Ann Docwra Room          | £34.00 | £51.00 | +£17.00/hr |
+| Aldren Wright Room       | £27.00 | £40.50 | +£13.50/hr |
+| Annexe                   | £23.00 | £34.50 | +£11.50/hr |
+| Library                  | £13.00 | £19.50 | +£ 6.50/hr |
 
 </div>
 
@@ -125,23 +125,23 @@ These rates are effective from 1 September 2021 to 30 June 2022. They are subjec
 
 Use of Kitchen |
 --|
-Tea or coffee per serving                           | £5.75
-Serving a prepared meal, including tea or coffee    | £12.00
-Cooking and serving a meal, including tea or coffee | £21.00
+Tea or coffee per serving                           | £6.50
+Serving a prepared meal, including tea or coffee    | £14.00
+Cooking and serving a meal, including tea or coffee | £23.00
 Tea/coffee provided                                 | £1.00 per serving
 
 Equipment |
 --|
-Use of digital projector            | £ 5.75
-Use of sound system with microphone | £ 5.75
-Use of teleconferencing equipment   | £10.00
+Use of digital projector            | £ 6.50
+Use of sound system with microphone | £ 6.50
+Use of teleconferencing equipment   | £11.00
 Use of flip chart/white board       | no charge
 
 NB: Please reserve equipment or kitchen in advance.
 
 </div>
 
-Solo use of any room is charged at £20 per day. For a
+Solo use of any room is charged at £22 per day. For a
 series of more than three hires booked there is a 10%
 reduction. For new hirers, one-off or irregular bookings
 (i.e. not weekly or monthly) a deposit of 25% paid in
