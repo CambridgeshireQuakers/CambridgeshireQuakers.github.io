@@ -9,17 +9,17 @@ address: |
   91-93 Hartington Grove
   Cambridge
   CB1 7UB
-email: clerk@coh.cambridgeshire-quakers.org.uk
+email: ka.butler@cantab.net
 regularMeetings:
   - Sundays 1030-1130 (Once a month)
 ---
 
-The Oast House Worshipping Group was formed to meet a need for a small, quiet Meeting for Worship,
+Our Worshipping Group was formed to meet a need for a small, quiet Meeting for Worship,
 where those attending can get to know each other well, both on a personal level and more deeply.
 
-In 2021 we were laid down as a separate Local Meeting and in 2022 we plan to hold worship monthly at Hartington Grove Meeting House.
-
-Prior to the pandemic, we met (with typically six or seven Friends present) in the Outer Parlour of Pembroke College on Sundays from 1030-1130am.
+Oast House Meeting was laid down in September 2021, and Friends regularly attending the Meeting
+are now meeting in person on the third Sunday of the month in the Fox Room at Hartington Grove
+Meeting House. We are now known as Pembroke Friends (as our Meeting met in Pembroke College until
+2020). Visitors are very welcome.
 
 It is our hope that our occasional visitors and new attenders also find us friendly and welcoming.
-
