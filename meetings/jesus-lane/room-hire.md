@@ -48,12 +48,6 @@ the facilities provided.
 
 </div>
 
-<div class="alert alert-warning">
-
-Please also note that during the pandemic, actual capacity will be less than the normal room capacity given below, which does not account for distancing; hirers must follow our  <a target="_blank" href="/asset-site/jesus-lane/hirers-covid.pdf">Safety Guidance</a>, which is subject to change.
-
-</div>
-
 {% include roomlist.md meeting=page.meeting %}
 
 ## Facilities
