@@ -103,14 +103,14 @@ These rates are effective from 1 July 2022 to 31 December 2022. They are subject
 
 <div data-apply-selector="&gt;table" data-apply-class="table table-striped" markdown="block">
 
-| Room | Evening & weekends <br/> 3 hours min hire | Daytime (Weekdays)<br/> 2 hours min hire | Each additional hour |
+| Room | Daytime (Weekdays)<br/> 2 hours min hire | Evening & weekends <br/> 3 hours min hire | Each additional hour |
 |--------------------------|-------:|-------:|-----------:|
 | Meeting Room             | £42.00 | £63.00 | +£21.00/hr |
 | Meeting Room with Annexe | £54.00 | £81.00 | +£27.00/hr |
 | Ann Docwra Room          | £34.00 | £51.00 | +£17.00/hr |
 | Aldren Wright Room       | £27.00 | £40.50 | +£13.50/hr |
 | Annexe                   | £23.00 | £34.50 | +£11.50/hr |
-| Library                  | £13.00 | £19.50 | +£ 6.50/hr |
+| Library                  |    N/A | £19.50 | +£ 6.50/hr |
 
 </div>
 
