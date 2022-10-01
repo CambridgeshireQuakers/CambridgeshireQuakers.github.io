@@ -10,6 +10,6 @@ images:
 
 ---
 
-This is suitable for society and club meetings and for committees and other groups. It has a lino-covered floor, stacking upholstered chairs and curtains.
-
+This is room is suitable for small meetings and especially for activities involving children.
+It has a lino-covered floor, stacking upholstered chairs, range of toys and children’s books.
 There are facilities for making hot drinks.
