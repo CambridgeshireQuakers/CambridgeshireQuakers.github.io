@@ -10,4 +10,7 @@ images:
 
 ---
 
-Suitable for small groups. It has a polished wood floor, a set of upholstered chairs and curtains.
+Suitable for small groups. It has a polished wood floor,
+a set of upholstered chairs and curtains.
+
+The library is only available for hire evenings/weekends.
