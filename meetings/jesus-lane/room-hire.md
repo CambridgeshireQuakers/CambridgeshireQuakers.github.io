@@ -82,6 +82,7 @@ forty. The kitchen should be booked in advance.
 
 The following equipment is available at the Meeting House. Please reserve these in advance, when you book your room.
 
+- Teleconferencing equipment, computer and large screen (can be moved to all rooms in building)
 - Digital projector and speakers
 - Overhead projector
 - Wall-hung projection screens in Ann Docrwa Room and Meeting Room
