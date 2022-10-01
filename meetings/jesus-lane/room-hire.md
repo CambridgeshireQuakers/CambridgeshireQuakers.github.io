@@ -85,7 +85,7 @@ The following equipment is available at the Meeting House. Please reserve these 
 - Teleconferencing equipment, computer and large screen (can be moved to all rooms in building)
 - Digital projector and speakers
 - Overhead projector
-- Wall-hung projection screens in Ann Docrwa Room and Meeting Room
+- Wall-hung projection screens in Ann Docwra Room and Meeting Room
 - Flipchart/whiteboard stand
 - Piano (Meeting Room and Annexe bookings only)
 
