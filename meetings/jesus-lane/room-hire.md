@@ -76,7 +76,7 @@ sex.
 A good-sized and well-equipped kitchen is available
 for use on a self-catering basis. Hot drinks can be
 made for up to eighty people and meals for up to
-forty.  The kitchen should be booked in advance.
+forty. The kitchen should be booked in advance.
 
 ### Lecture aids, etc.
 
