@@ -5,7 +5,7 @@ capacity: 30 people
 title: Aldren Wright Room
 images:
   -
-    src: /img-site/jesus-lane/aw-400.jpg
+    src: /img-site/jesus-lane/aw-2022-400.jpg
     alt: The Aldren Wright Room at Jesus Lane
 
 ---

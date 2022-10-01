@@ -8,7 +8,7 @@ images:
     src: /img-site/jesus-lane/ad-400.jpg
     alt: The Anne Docwra Room at Jesus Lane
   -
-    src: /img-site/jesus-lane/kitchen-400.jpg
+    src: /img-site/jesus-lane/kitchen-2022-400.jpg
     alt: The Jesus Lane Kitchen
 
 ---

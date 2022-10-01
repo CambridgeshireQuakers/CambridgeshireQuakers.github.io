@@ -5,7 +5,7 @@ capacity: 100 people or 120 including annexe
 title: Meeting Room
 images:
   -
-    src: /img-site/jesus-lane/meeting room 400.jpg
+    src: /img-site/jesus-lane/meeting-room-2022-400.jpg
     alt: The Meeting Room at Jesus Lane
   -
     src: /img-site/jesus-lane/annexe.jpg
