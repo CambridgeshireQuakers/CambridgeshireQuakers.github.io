@@ -2,7 +2,7 @@
 meeting: jesus-lane
 dimensions: 9m x 3m
 capacity: 15
-title: The Annexe
+title: Annexe
 images:
   -
     src: /img-site/jesus-lane/annexe.jpg

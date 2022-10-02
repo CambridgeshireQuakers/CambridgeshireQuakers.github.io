@@ -1,6 +1,6 @@
 ---
 meeting: jesus-lane
-title: The Kitchen
+title: Kitchen
 images:
   -
     src: /img-site/jesus-lane/kitchen-2022-400.jpg
