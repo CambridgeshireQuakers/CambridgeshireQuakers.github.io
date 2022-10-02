@@ -1,7 +1,5 @@
 ---
 meeting: jesus-lane
-dimensions: 9m x 7m
-capacity: 50 people
 title: The Kitchen
 images:
   -
