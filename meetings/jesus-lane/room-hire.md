@@ -31,12 +31,11 @@ Copies of the Standard Terms
 and Conditions for lettings are available on
 request.
 
-The Friends Meeting House is cared for by
-resident Wardens and two Assistant Wardens.
-who are available whenever the Meeting House is
-open. They hope you will find a quiet and friendly
-atmosphere here, and welcome your comments on
-the facilities provided.
+The Friends Meeting House is cared for by a Warden
+and two Assistant Wardens who are available whenever
+the Meeting House is open. They hope you will find a
+quiet and friendly atmosphere and welcome your comments
+on the facilities provided.
 
 </div>
 
