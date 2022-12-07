@@ -26,13 +26,21 @@ Tea and coffee follows Meeting for Worship, as well as other regular activities 
 - **Singing Together** takes place at 1200 on the third Sunday of each month
 - Also on third Sundays we have a **bring-and-share lunch**.
 
-We also have a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230.
+You are welcome to join us for either or both of a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230, or for our regular **drop-in silence every Friday**: stay as long as you like, leave when you want (also an opportunity to browse our Library).
 
-We also have monthly **Evening Meetings for Worship**, in which we explore different topics, and Friends
+We hold monthly **Evening Meetings for Worship** on Tuesdays, in which we explore different topics, and Friends
 from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled
-**Ideas in Isolation**. Please get in touch if you would like to join.
+**Ideas Online**.
 
-Please do not come to the Meeting House if you are experiencing COVID-like symptoms.
+Please get in touch to sign up to our weekly email to find out about upcoming events and for connection details for joining us online.
+
+Note: Please do not come to the Meeting House if you are experiencing COVID-like symptoms.
+
+### Winter 2022-2023: Warm Wednesdays
+
+Jesus Lane Meeting has been awarded a micro grant of £1000 by Cambridge City Council to support the cost of offering a quiet warm space in Ann Docwra every Wednesday 9.30 - 5.30 between October 19th - End of March 2023.
+
+We hope that this offer will be of benefit for people experiencing fuel poverty. We think it may be of particular interest to people now expected to work from home who may be worried about their fuel bills. We plan to offer a friendly welcome, free wifi, tables for home working (max 5) free tea/coffee, soup lunch (for a donation) and quiet activities with access to light reading, jigsaw puzzle, board games, occasional crafts, social chat etc.
 
 ### Getting to the Meeting House
 
