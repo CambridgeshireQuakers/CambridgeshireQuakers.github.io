@@ -26,7 +26,7 @@ Tea and coffee follows Meeting for Worship, as well as other regular activities 
 - **Singing Together** takes place at 1200 on the third Sunday of each month
 - Also on third Sundays we have a **bring-and-share lunch**.
 
-You are welcome to join us for either or both of a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230, or for our regular **drop-in silence every Friday**: stay as long as you like, leave when you want (also an opportunity to browse our Library).
+You are welcome to join us for either or both of a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230, or for our regular **drop-in silence every Friday** from 1700-1800: stay as long as you like, leave when you want (also an opportunity to browse our Library).
 
 We hold monthly **Evening Meetings for Worship** on Tuesdays, in which we explore different topics, and Friends
 from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled
