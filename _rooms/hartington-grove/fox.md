@@ -4,7 +4,7 @@ capacity: 25 people
 title: Fox Room
 images:
   -
-    src: /img-site/hartington-grove/Fox.jpg
+    src: /img-site/hartington-grove/2023-web/SmallFox.jpg
     alt: The Fox Room at Hartington Grove
 
 ---

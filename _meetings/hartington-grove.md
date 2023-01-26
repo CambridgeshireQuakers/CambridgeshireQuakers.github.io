@@ -18,7 +18,7 @@ Children are welcome every Sunday; a **Children’s Meeting** for up-to-7-year-o
 
 ## Getting to Hartington Grove Meeting
 
-{% include image.html src='/img-site/hartington-grove/frontdoor4.jpg' class='thumbnail-left' caption="The front door of Hartington Grove Meeting House as seen from the road" %}
+{% include image.html src='/img-site/hartington-grove/2023-web/SmallFrontDoor.jpg' class='thumbnail-left' caption="The front door of Hartington Grove Meeting House" %}
 
 Our Quaker Meeting House is situated approximately 1 mile from the railway station and 1.5 miles south east of the centre of Cambridge City.
 
