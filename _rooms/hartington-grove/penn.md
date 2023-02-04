@@ -8,3 +8,5 @@ images:
     alt: The Penn Room at Hartington Grove
 
 ---
+
+A smaller room suitable for one-to-one or small group work, committee meetings etc. Can seat 8-10.
