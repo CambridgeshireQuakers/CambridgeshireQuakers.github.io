@@ -1,3 +1,9 @@
+{% for m in site.meetings %}
+  {% if m.meeting == include.meeting %}
+    {% assign meeting = m %}
+  {% endif %}
+{% endfor %}
+
 {% for r in site.rooms %}
 {% if r.meeting == include.meeting %}
 
