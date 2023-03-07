@@ -4,10 +4,11 @@ meeting: hartington-grove
 shortTitle: Hartington Grove
 prefix: Cambridge
 address: |
-  Hartington Grove Friends Meeting House
+  Quaker Meeting House
   91-93 Hartington Grove
   Cambridge
   CB1 7UB
+roomBookingEmail: warden@hartingtongrove.org.uk
 telephone: +44 (0)1223 214438
 eventVenue: true
 ---
