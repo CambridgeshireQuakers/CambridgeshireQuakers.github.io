@@ -25,7 +25,7 @@ permitted.
 A printable copy of our brochure is available for download
 <a target="_blank" href="/asset-site/jesus-lane/hirers.pdf">here</a>
 and our overall lettings policy is available for download
-<a target="_blank" href="/asset-site/jesus-lane/letting-policy.docx">here</a>.
+<a target="_blank" href="/asset-site/jesus-lane/letting-policy.pdf">here</a>.
 
 Copies of the Standard Terms
 and Conditions for lettings are available on
@@ -57,9 +57,9 @@ There are no steps to negotiate either to enter the
 premises or when inside (with the exception of
 access to the Caroline Stephen Room) and there
 is a lift to the upper floor. The entrance doors
-have powered openers operated by push-pads.  A
+have powered openers operated by push-pads. A
 wheelchair-accessible WC, which meets all current
-guidelines, is available on the ground floor.  A
+guidelines, is available on the ground floor. A
 transit wheelchair is available.
 
 There are hearing induction loops in the Meeting
@@ -96,7 +96,7 @@ in advance.
 
 ## Rates
 
-These rates are effective from 1 July 2022 to 31 December 2022. They are subject to periodic review.
+These rates are effective from 1 July 2023 to 31 July 2024. They are subject to periodic review.
 
 ##### Room Rates
 
@@ -104,12 +104,12 @@ These rates are effective from 1 July 2022 to 31 December 2022. They are subject
 
 | Room | Daytime (Weekdays)<br/> 2 hours min hire | Evening & weekends <br/> 3 hours min hire | Each additional hour |
 |--------------------------|-------:|-------:|-----------:|
-| Meeting Room             | £42.00 | £63.00 | +£21.00/hr |
-| Meeting Room with Annexe | £54.00 | £81.00 | +£27.00/hr |
-| Ann Docwra Room          | £34.00 | £51.00 | +£17.00/hr |
-| Aldren Wright Room       | £27.00 | £40.50 | +£13.50/hr |
-| Annexe                   | £23.00 | £34.50 | +£11.50/hr |
-| Library                  |    N/A | £19.50 | +£ 6.50/hr |
+| Meeting Room             | £47.00 | £70.50 | +£23.50/hr |
+| Meeting Room with Annexe | £60.00 | £90.00 | +£30.00/hr |
+| Ann Docwra Room          | £38.00 | £57.00 | +£19.00/hr |
+| Aldren Wright Room       | £30.00 | £45.00 | +£15.00/hr |
+| Annexe                   | £26.00 | £39.00 | +£13.00/hr |
+| Library                  |    N/A | £22.50 | +£ 7.50/hr |
 
 </div>
 
