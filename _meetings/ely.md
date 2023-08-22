@@ -12,10 +12,15 @@ address: |
 email: ely-clerk@cambridgeshire-quakers.org.uk
 ---
 
-Ely Meeting is a relatively new, small Local Meeting as Meetings for Worship resumed in 2007. From January 2022 we are meeting each Sunday as a ‘blended’ meeting (online/in person) from 10.30-11.30 in The Aedwen Room, Ely Museum, Ely. If you would like to join this meeting online, please [contact the clerk](mailto:ely-clerk@cambridgeshire-quakers.org.uk) to request joining details.
+We meet each Sunday as a ‘blended’ meeting (online/in person) from 10.30-11.30 in The Aedwen Room, Ely Museum, The Old Gaol, Market St, Ely CB7 4LS.
+All are welcome to attend this meeting in person.
 
-To reduce the risk of infection the venue has good ventilation (do wear a warm coat) and space for us to sit socially distanced. We ask that you wear a face covering and for the time being we are advising a Lateral Flow Test before Meeting.
+Alternatively, if you would like to join the meeting online, please contact the Ely Clerk to receive the Zoom link. 
+Further, the Ely Clerk can provide you with directions to find the Aedwen Room in the Museum and advise on parking possibilities.
 
-Our Meetings for Worship, typically attended by about ten, are more often than not silent. There is an opportunity after the silence to share thoughts which were not given as ministry but are often food for thought.
+Our Meetings for Worship are typically attended by at least ten people.
 
-We do not have a Children’s Meeting at present.
+> In the quietness of a Quaker meeting worshippers can become aware of a deep and powerful spirit of love and truth, transcending their ordinary experience.
+> We seek to become united in love and strengthened in truth, so we enter a new level of living, despite the different ways we may account for the life-expanding experience
+
+We are welcoming to children but don’t at present have the facilities to run a children’s meeting.
