@@ -11,36 +11,36 @@ address: |
 telephone: +44 (0)1223 357535
 email: jlwardens@gmail.com
 regularMeetings:
+  - Sundays 0900-1000
   - Sundays 1030-1130
+  - Tuesdays 1745-1815 (Young Friends Worship)
   - Wednesdays 1315-1345
-  - Once a month on third Tuesdays 1315-1345
+  - Once a month on third Mondays 1900-2000
 eventVenue: true
 ---
 
 Jesus Lane is a busy meeting, which often has 50-60 Friends gathered on Sundays,
-meeting from 1030-1130am. We have [family-friendly arrangements](/meetings/jesus-lane/childrens-meeting.html) for Sunday worship.
+meeting from 9am-10am and 1030am-1130am. We have [family-friendly arrangements](/meetings/jesus-lane/childrens-meeting.html) for Sunday worship.
 
 Tea and coffee follows Meeting for Worship, as well as other regular activities which you are welcome to stay for:
 
 - **Local Meeting for Business** is held on the first Sunday of each months (except January and August)
-- **Singing Together** takes place at 1200 on the third Sunday of each month
+- **Singing Together** takes place at 1215 on the third Sunday of each month
 - Also on third Sundays we have a **bring-and-share lunch**.
 
-You are welcome to join us for either or both of a **Meeting for Worship on Wednesdays** from 1315-1345, preceded most weeks by a Soup and Cheese lunch at 1230, or for our regular **drop-in silence every Friday** from 1700-1800: stay as long as you like, leave when you want (also an opportunity to browse our Library).
+You are welcome to join us for either or both of a **Meeting for Worship on Wednesdays** from 1315-1345, preceded every week by a Soup and Cheese lunch at 1230, or for our regular **drop-in silence every Friday** from 1700-1800: stay as long as you like, leave when you want (also an opportunity to browse our Library).
 
-We hold monthly **Evening Meetings for Worship** on Tuesdays, in which we explore different topics, and Friends
-from across the Cambridgeshire Area are meeting on Monday evenings during term time for regular one-off discussions entitled
+We hold monthly **Evening Meetings for Worship** on first (online) and third (in-person) Mondays, in which we explore different topics, and Friends
+from across the Cambridgeshire Area are meeting on alternate Monday evenings during term time for regular one-off discussions entitled
 **Ideas Online**.
 
 Please get in touch to sign up to our weekly email to find out about upcoming events and for connection details for joining us online.
 
 Note: Please do not come to the Meeting House if you are experiencing COVID-like symptoms.
 
-### Winter 2022-2023: Warm Wednesdays
+### Open House
 
-Jesus Lane Meeting has been awarded a micro grant of £1000 by Cambridge City Council to support the cost of offering a quiet warm space in Ann Docwra every Wednesday 9.30 - 5.30 between October 19th - End of March 2023.
-
-We hope that this offer will be of benefit for people experiencing fuel poverty. We think it may be of particular interest to people now expected to work from home who may be worried about their fuel bills. We plan to offer a friendly welcome, free wifi, tables for home working (max 5) free tea/coffee, soup lunch (for a donation) and quiet activities with access to light reading, jigsaw puzzle, board games, occasional crafts, social chat etc.
+Jesus Lane Meeting is open every Wednesday throughout the year from 10.30am-4pm. We offer a warm friendly social space, free tea and coffee, games, puzzles, space to work from home with free access to wifi. Homemade soup lunch is served at 12.30.
 
 ### Getting to the Meeting House
 
