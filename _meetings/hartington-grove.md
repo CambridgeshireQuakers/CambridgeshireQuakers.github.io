@@ -11,11 +11,24 @@ address: |
 roomBookingEmail: warden@hartingtongrove.org.uk
 telephone: +44 (0)1223 214438
 eventVenue: true
+canonicalUrl: 'https://cambridge.quakermeeting.org/hartington-grove-meeting/'
 ---
 
 Meeting for Worship is held every Sunday from 10.30 to 11.30 a.m, and we always welcome visitors.
 
 Children are welcome every Sunday; a **Children’s Meeting** for up-to-7-year-olds is organised for the second and last Sunday of each month and all children are welcome. If you have children who would like to come with you, please let us know by contacting the warden.
+
+<div class="xs-expand">
+  <div class="pad-y-sm">
+    <a class="block pad-lg bg-success" href="https://cambridge.quakermeeting.org/">
+      <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
+      Quakers in Cambridge now have a dedicated website:
+      <strong>
+        click here to visit us
+      </strong>
+    </a>
+  </div>
+</div>
 
 ## Getting to Hartington Grove Meeting
 

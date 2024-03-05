@@ -17,10 +17,22 @@ regularMeetings:
   - Wednesdays 1315-1345
   - Once a month on third Mondays 1900-2000
 eventVenue: true
+canonicalUrl: 'https://cambridge.quakermeeting.org/jesus-lane-meeting/'
 ---
-
 Jesus Lane is a busy meeting, which often has 50-60 Friends gathered on Sundays,
 meeting from 9am-10am and 1030am-1130am. We have [family-friendly arrangements](/meetings/jesus-lane/childrens-meeting.html) for Sunday worship.
+
+<div class="xs-expand">
+  <div class="pad-y-sm">
+    <a class="block pad-lg bg-success" href="https://cambridge.quakermeeting.org/">
+      <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
+      Quakers in Cambridge now have a dedicated website:
+      <strong>
+        click here to visit us
+      </strong>
+    </a>
+  </div>
+</div>
 
 Tea and coffee follows Meeting for Worship, as well as other regular activities which you are welcome to stay for:
 

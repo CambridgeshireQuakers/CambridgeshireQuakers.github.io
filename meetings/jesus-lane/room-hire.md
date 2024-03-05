@@ -2,6 +2,7 @@
 meeting: jesus-lane
 shortTitle: Room Hire
 title: Rooms for Hire at Jesus Lane
+canonicalUrl: 'https://cambridge.quakermeeting.org/room-hire/'
 ---
 {% include assign-meeting %}
 

@@ -3,6 +3,7 @@ shortTitle: Children
 meeting: jesus-lane
 title: Jesus Lane Children's Group
 layout: meeting
+canonicalUrl: 'https://cambridge.quakermeeting.org/jesus-lane-childrens-meeting/'
 ---
 
 Children and families are very welcome at Jesus Lane Meeting.
