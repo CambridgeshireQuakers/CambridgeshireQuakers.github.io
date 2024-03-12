@@ -24,7 +24,7 @@ meeting from 9am-10am and 1030am-1130am. We have [family-friendly arrangements](
 
 <div class="xs-expand">
   <div class="pad-y-sm">
-    <a class="block pad-lg bg-success" href="https://cambridge.quakermeeting.org/">
+    <a class="block pad-lg bg-danger" href="https://cambridge.quakermeeting.org/">
       <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
       Quakers in Cambridge now have a dedicated website:
       <strong>

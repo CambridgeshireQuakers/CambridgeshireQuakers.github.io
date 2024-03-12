@@ -20,7 +20,7 @@ Children are welcome every Sunday; a **Children’s Meeting** for up-to-7-year-o
 
 <div class="xs-expand">
   <div class="pad-y-sm">
-    <a class="block pad-lg bg-success" href="https://cambridge.quakermeeting.org/">
+    <a class="block pad-lg bg-danger" href="https://cambridge.quakermeeting.org/">
       <i class="glyphicon glyphicon-chevron-right pull-right pad-y-sm"></i>
       Quakers in Cambridge now have a dedicated website:
       <strong>
